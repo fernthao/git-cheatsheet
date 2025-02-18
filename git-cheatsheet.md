@@ -1,4 +1,4 @@
-Git commands:
+Common commands:
 
     git checkout -b
     git push -u origin (initial push)
@@ -13,6 +13,10 @@ Delete local:
 Delete remote:
 
     git push origin --delete <branch_name>
+
+Undo:
+    `git reflog`
+    `git reset --hard HEAD@{2}`
 
 Git workflow
 
