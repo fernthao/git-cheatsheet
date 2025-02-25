@@ -1,7 +1,7 @@
 Common commands:
 
-    git checkout -b
-    git push -u origin (initial push)
+    git checkout -b <branch-name>
+    git push -u origin <branch-name> (initial push)
     git pull --rebase origin master
     git commit --amend
 
