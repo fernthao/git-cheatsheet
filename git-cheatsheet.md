@@ -2,8 +2,12 @@ Common commands:
 
     git checkout -b <branch-name>
     git push -u origin <branch-name> (initial push)
-    git pull --rebase origin master
     git commit --amend
+    
+Rebase and force push
+
+    git pull --rebase origin master
+    git push --force
 
 Delete local:
 
