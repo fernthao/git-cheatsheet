@@ -1,9 +1,9 @@
 CSDS 293 Homework:
-`git init`
-`git remote add origin spring2025@eecslab-18.case.edu:<netid>/<project-name>.git`
-`git tag -a hw7`
-`git push --all`
-`git push --tags`
+    git init
+    git remote add origin spring2025@eecslab-18.case.edu:<netid>/<project-name>.git
+    git tag -a hw7
+    git push --all
+    git push --tags
 
 
 Common commands:
